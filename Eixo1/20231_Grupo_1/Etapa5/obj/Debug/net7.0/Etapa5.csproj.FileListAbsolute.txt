@@ -1,0 +1,15 @@
+C:\Users\frederico\Desktop\Etapa5\bin\Debug\net7.0\Etapa5.exe
+C:\Users\frederico\Desktop\Etapa5\bin\Debug\net7.0\Etapa5.deps.json
+C:\Users\frederico\Desktop\Etapa5\bin\Debug\net7.0\Etapa5.runtimeconfig.json
+C:\Users\frederico\Desktop\Etapa5\bin\Debug\net7.0\Etapa5.dll
+C:\Users\frederico\Desktop\Etapa5\bin\Debug\net7.0\Etapa5.pdb
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.csproj.AssemblyReference.cache
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.AssemblyInfoInputs.cache
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.AssemblyInfo.cs
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.csproj.CoreCompileInputs.cache
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.dll
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\refint\Etapa5.dll
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.pdb
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\Etapa5.genruntimeconfig.cache
+C:\Users\frederico\Desktop\Etapa5\obj\Debug\net7.0\ref\Etapa5.dll
